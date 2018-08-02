@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="UnderTattoos.Views.LoginPage"
              BindingContext="{Binding Main, Source={StaticResource Locator}}"
-             Title="Login">
+             Title="UnderGroundTattoo">
     <ContentPage.Content>
         <ScrollView
             BindingContext="{Binding Login}">
